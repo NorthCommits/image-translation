@@ -52,6 +52,7 @@ output/
 *.jpeg
 *.png
 !test.png
+!image.jpg
 *.gif
 *.bmp
 *.tiff
